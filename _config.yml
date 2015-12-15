@@ -1,7 +1,7 @@
 name: Woodside Media
 favicon: null
-layout_spectrum: 0.1400990376714617
-typography_spectrum: 0.02605859888717532
+layout_spectrum: 1
+typography_spectrum: 0.31821
 title: Woodside Media
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#e90000'
     - '#3300d2'
   brandStrength: 0.625
-  lightness: 0.47177178389392793
-  saturation: 0.9522944274358451
-  rhythmicContrast: 0.24935139040462673
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
